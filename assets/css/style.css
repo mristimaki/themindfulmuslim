@@ -8,5 +8,19 @@
 }
 
 body {
-    font-family: 'Quattrocento', sans-serif;
+    font-family: 'Quattrocento', serif;
+    font-weight: 300;
+    color: #47525E;
+}
+
+h1, h2 {
+    font-family: 'Playfair Display', serif;
+}
+
+#logo {
+    text-align: center;
+}
+
+#navigation {
+    text-align: center;
 }
