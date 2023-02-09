@@ -17,6 +17,42 @@ h1, h2 {
     font-family: 'Playfair Display', serif;
 }
 
+header {
+    background-color: #ff9052;
+    height: 150px;
+}
+
+header a {
+    text-decoration: none;
+    color: #fff;
+    padding: 5px 10px;
+}
+
+ul li {
+    display: inline-block;
+    color: #fff;
+}
+
+ul li a {
+    text-decoration: none;
+    text-transform: uppercase;
+    text-align: center;
+    color: #fff;
+    padding: 5px 10px;
+    border: 2px solid;
+    transition: 0.5s ease;
+}
+
+ul li a:hover {
+    background-color: #fff;
+    color: #ff9052;
+}
+
+ul li.active a {
+    background-color: #fff;
+    color: #ff9052;
+}
+
 #logo {
     text-align: center;
 }
