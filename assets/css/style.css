@@ -95,3 +95,16 @@ center with every size of screen, fix this */
         width: 50%;
     }
 }
+
+/* footer */
+
+footer {
+    background-color: #ff9052;
+    height: 70px;
+    color: #fff;
+}
+
+.socialmedia {
+    text-align: center;
+    padding-top: 25px;
+}
