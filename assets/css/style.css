@@ -75,5 +75,23 @@ ul li.active a {
 
 #images {
     background-color: rgba(255, 180, 140, 50);
+    width: 100%;
 }
 
+/* there is something wrong with img, does not 
+center with every size of screen, fix this */
+
+.images {
+    padding: 10px;
+    height: auto;
+    width: 50%;
+    margin: 0 auto;
+}
+
+/* image style if screen is bigger than 400px wide */
+
+@media screen and (min-width: 400px) {
+    .images {
+        width: 50%;
+    }
+}
