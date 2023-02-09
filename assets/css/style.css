@@ -15,6 +15,7 @@ body {
 
 h1, h2 {
     font-family: 'Playfair Display', serif;
+    padding-bottom: 5px;
 }
 
 /* header and navigation bar */
@@ -66,9 +67,13 @@ ul li.active a {
 /* home section */
 
 #home {
+    background-color: #fff;
+    height: 200px;
+    padding-top: 15px;
+    padding-left: 15px;
+}
+
+#images {
     background-color: rgba(255, 180, 140, 50);
 }
 
-.home {
-    
-}
