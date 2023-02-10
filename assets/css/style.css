@@ -74,25 +74,24 @@ ul li.active a {
 }
 
 #images {
+    clear: both;
+    column-count: 3;
+    column-gap: 5px;
+    display: flex;
+    justify-content: center;
     background-color: rgba(255, 180, 140, 50);
-    width: 100%;
+    padding: 15px;
 }
 
-/* there is something wrong with img, does not 
-center with every size of screen, fix this */
-
-.images {
-    padding: 10px;
-    height: auto;
-    width: 50%;
-    margin: 0 auto;
+#images a img {
+    width: 300px;
 }
 
-/* image style if screen is bigger than 400px wide */
+/* image style if screen is smaller than 1000px wide - this does not work yet */
 
-@media screen and (min-width: 400px) {
-    .images {
-        width: 50%;
+@media screen and (max-width: 1000px) {
+    #images a img {
+        column-count: 1;
     }
 }
 
