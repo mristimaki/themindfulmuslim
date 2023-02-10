@@ -69,26 +69,45 @@ header a {
 #home {
     background-color: #fff;
     height: 200px;
+    width: auto;
     padding-top: 15px;
     padding-left: 15px;
 }
 
-#images {
-    column-count: 3;
-    column-gap: 5px;
-    display: flex;
-    justify-content: center;
-    background-color: rgba(255, 180, 140, 1);
-    padding: 15px;
-}
-
-#images a img {
-    width: 300px;
+div.images img {
+    width: 100%;
     height: auto;
 }
 
-/* image style if screen is smaller than 1000px wide - this does not work yet */
+.responsive {
+    padding: 15px;
+    background-color: #F9CC89;
+    justify-content: center;
+    float: left;
+}
 
+/* image style if screen is smaller than 1400px and 768px wide - this does not work yet */
+
+@media only screen and (max-width: 700px) {
+    .responsive {
+        padding: 15px;
+        background-color: #F9CC89;
+        justify-content: center;
+        float: left;
+        width: 49%;
+    }
+}
+
+@media only screen and (max-width: 500px) {
+    .responsive {
+        padding: 15px;
+        background-color: #F9CC89;
+        justify-content: center;
+        float: left;
+        width: 100%;
+    }
+
+}
 
 /* footer with social media links */
 
