@@ -80,33 +80,19 @@ div.images img {
 }
 
 .responsive {
-    padding: 15px;
+    padding: 5px;
     background-color: #F9CC89;
-    justify-content: center;
-    float: left;
 }
 
-/* image style if screen is smaller than 1400px and 768px wide - this does not work yet */
+/* image style if screen is smaller than 768px */
 
-@media only screen and (max-width: 700px) {
-    .responsive {
-        padding: 15px;
-        background-color: #F9CC89;
-        justify-content: center;
-        float: left;
-        width: 49%;
+@media only screen and (min-width: 768px) {
+    div.images img {
+        width: 30%;
+        padding: 5px;
+        margin-left: auto;
+        margin-right: auto;
     }
-}
-
-@media only screen and (max-width: 500px) {
-    .responsive {
-        padding: 15px;
-        background-color: #F9CC89;
-        justify-content: center;
-        float: left;
-        width: 100%;
-    }
-
 }
 
 /* footer with social media links */
