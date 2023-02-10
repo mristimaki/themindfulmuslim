@@ -90,7 +90,7 @@ header a {
 /* image style if screen is smaller than 1000px wide - this does not work yet */
 
 
-/* footer */
+/* footer with social media links */
 
 footer {
     background-color: #ff9052;
@@ -98,20 +98,21 @@ footer {
     color: #fff;
 }
 
-#socialmedia a {
-    text-decoration: none;
-    text-align: center;
-    display: inline-block;
-    color: #fff;
-    transition: 0.5s ease;
-}
-
-#socialmedia li a:hover {
-    color: rgba(255, 180, 140, 50);
-}
-
 #socialmedia {
     text-align: center;
 }
 
+#socialmedia li {
+    display: inline;
+    color: #fff;
+}
 
+#socialmedia i {
+    font-size: 230%;
+    color: #fff;
+    margin: 1%;
+}
+
+#socialmedia a:hover {
+    color: #ff9052;
+}
