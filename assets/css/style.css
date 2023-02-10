@@ -31,12 +31,12 @@ header a {
     padding: 5px 10px;
 }
 
-ul li {
+#navigation li {
     display: inline-block;
     color: #fff;
 }
 
-ul li a {
+#navigation a {
     text-decoration: none;
     text-transform: uppercase;
     text-align: center;
@@ -46,14 +46,14 @@ ul li a {
     transition: 0.5s ease;
 }
 
-ul li a:hover {
+#navigation li a:hover {
     background-color: #fff;
     color: #ff9052;
 }
 
-ul li.active a {
+#navigation li.active a {
     background-color: #fff;
-    color: #ff9052;
+    color: #ff9052
 }
 
 #logo {
@@ -74,7 +74,6 @@ ul li.active a {
 }
 
 #images {
-    clear: both;
     column-count: 3;
     column-gap: 5px;
     display: flex;
@@ -85,15 +84,11 @@ ul li.active a {
 
 #images a img {
     width: 300px;
+    height: auto;
 }
 
 /* image style if screen is smaller than 1000px wide - this does not work yet */
 
-@media screen and (max-width: 1000px) {
-    #images a img {
-        column-count: 1;
-    }
-}
 
 /* footer */
 
@@ -103,7 +98,20 @@ footer {
     color: #fff;
 }
 
-.socialmedia {
+#socialmedia a {
+    text-decoration: none;
     text-align: center;
-    padding-top: 25px;
+    display: inline-block;
+    color: #fff;
+    transition: 0.5s ease;
 }
+
+#socialmedia li a:hover {
+    color: rgba(255, 180, 140, 50);
+}
+
+#socialmedia {
+    text-align: center;
+}
+
+
