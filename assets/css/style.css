@@ -122,6 +122,26 @@ footer {
     color: #ff9052;
 }
 
+/* sign up form */
+
+input [type=text], select {
+    width: 30%;
+    padding: 5px;
+    display: inline-block;
+    border-radius: 3px;
+    box-sizing: border-box;
+}
+
+input [type=submit] {
+
+}
+
+div #form {
+    border-radius: 5px;
+    background-color: #FFBA5C;
+    padding: 15px;
+}
+
 /* image style if screen is larger than 768px */
 
 @media only screen and (min-width: 768px) {
