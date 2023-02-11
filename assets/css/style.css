@@ -84,21 +84,12 @@ div.images img {
     background-color: #F9CC89;
 }
 
-/* image style if screen is smaller than 768px */
-
-@media only screen and (min-width: 768px) {
-    div.images img {
-        width: 30%;
-        padding: 5px;
-        margin-left: auto;
-        margin-right: auto;
-    }
-}
-
 /* inspiration section */
 
 .inspirationimg {
-    padding-left: 15px;
+    margin: 15px;
+    overflow: auto;
+    font-size: 13px;
 }
 
 /* footer with social media links */
@@ -127,4 +118,30 @@ footer {
 /* does not work - fix hover effect */
 #socialmedia a:hover {
     color: #ff9052;
+}
+
+/* image style if screen is larger than 768px */
+
+@media only screen and (min-width: 768px) {
+    div.images img {
+        width: 30%;
+        padding: 5px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
+/* paragraph to the right of img if screen is larger than 500px */ 
+
+@media only screen and (min-width: 500px) {
+    .inspirationimg {
+        margin: 15px;
+    }
+
+    .inspirationimg img {
+        float: left;
+        overflow: auto;
+        margin-right: 15px;
+    }
+
 }
