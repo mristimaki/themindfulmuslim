@@ -74,7 +74,7 @@ header a {
     padding-left: 15px;
 }
 
-/* need to fix the images so that they become centered and links to the right content on next page */
+/* need to fix the images so that they become centered and links to the right content on next page i also like them to be max-width */
 
 div.images img {
     width: 100%;
@@ -91,7 +91,7 @@ div.images img {
 .inspirationimg {
     margin: 15px;
     overflow: auto;
-    font-size: 13px;
+    font-size: 14px;
 }
 
 /* footer with social media links */
@@ -154,7 +154,9 @@ div form {
     border-radius: 5px;
     background-color: #FFBA5C;
     padding: 15px;
-    margin: 15px;
+    margin: 0 auto;
+    margin-bottom: 15px;
+    margin-top: 15px;
 }
 
 input[type="submit"] {
