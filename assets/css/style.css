@@ -74,6 +74,8 @@ header a {
     padding-left: 15px;
 }
 
+/* need to fix the images so that they become centered and links to the right content on next page */
+
 div.images img {
     width: 100%;
     height: auto;
