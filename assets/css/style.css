@@ -68,10 +68,11 @@ header a {
 
 #home {
     background-color: #fff;
-    height: 150px;
+    height: auto;
     width: auto;
     padding-top: 15px;
     padding-left: 15px;
+    margin-bottom: 30px;
 }
 
 /* need to fix the images so that they become centered and links to the right content on next page i also like them to be max-width */
@@ -90,6 +91,7 @@ div.images img {
 
 .inspirationimg {
     margin: 15px;
+    padding: 15px 0 15px 0;
     overflow: auto;
     font-size: 14px;
 }
@@ -126,10 +128,11 @@ footer {
 
 #signup {
     background-color: #fff;
-    height: 150px;
+    height: auto;
     width: auto;
     padding-top: 15px;
     padding-left: 15px;
+    margin-bottom: 30px;
 }
 
 /* sign up form */
@@ -149,7 +152,7 @@ input {
 }
 
 div form {
-    width: 65%;
+    width: 50%;
     height: auto;
     border-radius: 5px;
     background-color: #FFBA5C;
@@ -158,6 +161,8 @@ div form {
     margin-bottom: 15px;
     margin-top: 15px;
 }
+
+
 
 input[type="submit"] {
     width: 50%;
