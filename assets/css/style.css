@@ -96,6 +96,11 @@ div.images img {
     font-size: 14px;
 }
 
+#columns {
+    column-count: 2;
+    column-fill: auto;
+}
+
 /* footer with social media links */
 
 footer {
@@ -162,8 +167,6 @@ div form {
     margin-top: 15px;
 }
 
-
-
 input[type="submit"] {
     width: 50%;
     background-color: #fff;
@@ -181,6 +184,16 @@ input[type="submit"]:hover {
     padding: 5px 5px;
     border-radius: 3px;
     cursor: pointer;
+}
+
+input[type=text]:focus {
+    outline: none;
+    border-color: #ff9052;
+}
+
+#connected {
+    padding-top: 15px;
+    padding-left: 15px;
 }
 
 /* image style if screen is larger than 768px */
