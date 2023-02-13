@@ -81,7 +81,7 @@ header a {
 
 /* need to fix the images so that they become centered and links to the right content on next page */
 
-div.images {
+div.images img {
     width: 100%;
     height: auto;
 }
@@ -204,7 +204,6 @@ input[type=text]:focus {
 
 /* when just minimizing the screen, images does not appear as i like. only with inspect */
 /* image style if screen is larger than 768px */
-
 @media only screen and (min-width: 768px) {
     div.images img {
         width: 30%;
@@ -216,7 +215,6 @@ input[type=text]:focus {
 }
 
 /* paragraph to the right of img if screen is larger than 500px */ 
-
 @media only screen and (min-width: 500px) {
     .inspirationimg {
         margin: 15px;
@@ -228,4 +226,11 @@ input[type=text]:focus {
         margin-right: 15px;
     }
 
+}
+
+@media only screen and (max-width: 500px) {
+    .columns {
+        column-count: 1;
+        column-fill: auto;
+    }
 }
