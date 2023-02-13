@@ -75,14 +75,14 @@ header a {
     margin-bottom: 30px;
 }
 
-/* need to fix the images so that they become centered and links to the right content on next page i also like them to be max-width */
+/* need to fix the images so that they become centered and links to the right content on next page */
 
-div.images img {
+div.images {
     width: 100%;
     height: auto;
 }
 
-.responsive {
+#responsive {
     padding: 5px;
     background-color: #F9CC89;
 }
@@ -99,6 +99,7 @@ div.images img {
 #columns {
     column-count: 2;
     column-fill: auto;
+    column-gap: 25px;
 }
 
 /* footer with social media links */
@@ -196,6 +197,7 @@ input[type=text]:focus {
     padding-left: 15px;
 }
 
+/* when just minimizing the screen, images does not appear as i like. only with inspect */
 /* image style if screen is larger than 768px */
 
 @media only screen and (min-width: 768px) {
@@ -205,6 +207,7 @@ input[type=text]:focus {
         margin-left: auto;
         margin-right: auto;
     }
+
 }
 
 /* paragraph to the right of img if screen is larger than 500px */ 
