@@ -82,7 +82,7 @@ header a {
 /* need to fix the images so that they become centered: padding/margin to right is off, and links to the right content on next page */
 
 .images img {
-    width: 31%;
+    width: 29%;
     height: auto;
     margin: 5px;
 }
@@ -95,7 +95,7 @@ a:hover img {
 
 
 div.images {
-    padding: 15px 30px 15px 30px;
+    padding: 15px;
     text-align: center;
 }
 
@@ -234,10 +234,10 @@ input[type=text]:focus {
 
 /* when just minimizing the screen, images does not appear as i like. only with inspect */
 /* image style if screen is larger than 768px */
-@media only screen and (max-width: 450px) {
+@media only screen and (max-width: 768px) {
     div.images img {
         width: 90%;
-        padding: 5px 10px 5px 10px;
+        margin: 5px;
     }
 
 }
