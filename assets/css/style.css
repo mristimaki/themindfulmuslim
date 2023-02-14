@@ -96,6 +96,10 @@ div.images {
 
 /* inspiration section */
 
+p.center {
+    text-align: center;
+}
+
 .inspirationimg {
     width: 100%;
     height: auto;
