@@ -82,12 +82,21 @@ header a {
 /* need to fix the images so that they become centered: padding/margin to right is off, and links to the right content on next page */
 
 .images img {
-    width: 100%;
+    width: 31%;
     height: auto;
+    margin: 5px;
 }
+
+a:hover img {
+    color: #ff9052;
+    border: 5px solid;
+    transition: 0.5s ease;
+}
+
 
 div.images {
     padding: 15px 30px 15px 30px;
+    text-align: center;
 }
 
 #responsive {
@@ -101,7 +110,6 @@ p.center {
 }
 
 .inspirationimg {
-    width: 100%;
     height: auto;
     margin: 15px;
     padding: 15px 0 15px 0;
@@ -226,12 +234,10 @@ input[type=text]:focus {
 
 /* when just minimizing the screen, images does not appear as i like. only with inspect */
 /* image style if screen is larger than 768px */
-@media only screen and (min-width: 768px) {
+@media only screen and (max-width: 450px) {
     div.images img {
-        width: 30%;
-        padding: 5px;
-        margin-left: auto;
-        margin-right: auto;
+        width: 90%;
+        padding: 5px 10px 5px 10px;
     }
 
 }
@@ -254,5 +260,11 @@ input[type=text]:focus {
     .columns {
         column-count: 1;
         column-fill: auto;
+    }
+}
+
+@media only screen and (min-width: 1400px) {
+    #signupsection {
+        min-height: 70vh;
     }
 }
