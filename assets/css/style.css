@@ -138,24 +138,24 @@ footer {
     margin: 1%;
 }
 
-/* can i make text multi color like when making background-image: linear-gradient(180deg, #515bd4, #8134af, #dd2a7b, #feda77, #f58529); ? 
-rgba(255, 183, 142, 5);
-*/
+/* can i make text multi color like when making background-image: linear-gradient(180deg, #515bd4, #8134af, #dd2a7b, #feda77, #f58529); ? */
 
 #socialmedia a:hover i.fa-instagram {
-    color: #FFB48C;
-    transition: 0.7s ease;
-    border-radius: 15px;
+    color: #fff;
+    transition: 0.5s ease;
+    transform: scale(1.5);
 }
 
 #socialmedia a:hover i.fa-youtube {
-    color: #FFD58B;
-    transition: 0.7s ease;
+    color: #fff;
+    transition: 0.5s ease;
+    transform: scale(1.5);
 }
 
 #socialmedia a:hover i.fa-spotify {
-    color: #FFB48C;
-    transition: 0.7s ease;
+    color: #fff;
+    transition: 0.5s ease;
+    transform: scale(1.5);
 }
 
 /* sign up page */
