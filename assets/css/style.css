@@ -7,6 +7,8 @@
     border: none;
 }
 
+/* basic text style to the webpage */
+
 body {
     font-family: 'Quattrocento', serif;
     font-weight: 300;
@@ -18,6 +20,7 @@ h1, h2 {
     padding-bottom: 5px;
 }
 
+/* class to target list style to be circles */
 ul.circle {
     list-style: circle;
 }
@@ -40,6 +43,14 @@ header a {
     color: #fff;
 }
 
+#logo {
+    text-align: center;
+}
+
+#navigation {
+    text-align: center;
+}
+
 #navigation a {
     text-decoration: none;
     text-transform: uppercase;
@@ -50,22 +61,16 @@ header a {
     transition: 0.7s ease;
 }
 
+/* hover effect in navigation bar */
 #navigation li a:hover {
     background-color: #fff;
     color: #ff9052;
 }
 
+/* different style in navigation bar that targets the page you're currently on */
 #navigation li.active a {
     background-color: #fff;
     color: #ff9052
-}
-
-#logo {
-    text-align: center;
-}
-
-#navigation {
-    text-align: center;
 }
 
 /* home section */
@@ -79,20 +84,7 @@ header a {
     margin-bottom: 20px;
 }
 
-/* need to fix the images so that they become centered: padding/margin to right is off, and links to the right content on next page */
-
-.images img {
-    width: 29%;
-    height: auto;
-    margin: 5px;
-}
-
-a:hover img {
-    color: #fff;
-    border: 5px solid;
-    transition: 0.5s ease;
-}
-
+/* images in index.html that links to inspiration.html */
 
 div.images {
     padding: 15px;
@@ -103,8 +95,22 @@ div.images {
     background-color: #F9CC89;
 }
 
+.images img {
+    width: 29%;
+    height: auto;
+    margin: 5px;
+}
+
+/* hover effect on images: it is currently showing a disturbing blue border before the color set in style */
+a:hover img {
+    color: #fff;
+    border: 5px solid;
+    transition: 0.5s ease;
+}
+
 /* inspiration section */
 
+/* this class targets text that should be centered */
 p.center {
     text-align: center;
 }
@@ -117,6 +123,7 @@ p.center {
     font-size: 14px;
 }
 
+/* columns in article */
 .columns {
     column-count: 2;
     column-fill: balance;
@@ -146,7 +153,7 @@ footer {
     margin: 1%;
 }
 
-/* can i make text multi color like when making background-image: linear-gradient(180deg, #515bd4, #8134af, #dd2a7b, #feda77, #f58529); ? */
+/* a zoom effect when you hover over the social media icons */
 
 #socialmedia a:hover i.fa-instagram {
     color: #fff;
@@ -216,6 +223,7 @@ input[type="submit"] {
     cursor: pointer;
 }
 
+/* hover effect on the submit button */
 input[type="submit"]:hover {
     width: 50%;
     background-color: #FFBA5C;
@@ -226,6 +234,7 @@ input[type="submit"]:hover {
     cursor: pointer;
 }
 
+/* style to text-field when in focus */
 input[type=text]:focus {
     outline: none;
     border-color: #ff9052;
@@ -260,6 +269,7 @@ input[type=text]:focus {
 
 }
 
+/* responsive design that changes the column count to one if screen is smaller than 500px */
 @media only screen and (max-width: 500px) {
     .columns {
         column-count: 1;
@@ -267,6 +277,7 @@ input[type=text]:focus {
     }
 }
 
+/* responsive design to make footer stick to bottom on larger screens */
 @media only screen and (max-width: 2745px) {
     #signupsection {
         min-height: 75vh;
