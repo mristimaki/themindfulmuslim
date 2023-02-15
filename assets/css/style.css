@@ -88,7 +88,7 @@ header a {
 }
 
 a:hover img {
-    color: #ff9052;
+    color: #fff;
     border: 5px solid;
     transition: 0.5s ease;
 }
