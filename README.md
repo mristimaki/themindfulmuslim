@@ -9,15 +9,15 @@
 
 <h3>Goals</h3>
 
-<h4>Visitor Goals(make bold)</h4>
-The target audience for The Mindful Muslim:
+<h4>Visitor Goals</h4>
+**The target audience for The Mindful Muslim:**
 
 - People who are interested in health and spirituality.
 - People who are interested in mindfulness.
 - People who are interested in mindful parenting.
 - People who wants to increase in religious knowledge. 
 
-User goals are:
+**User goals are:**
 
 - Learn about sunnah inspired health habits.
 - Become a more mindful parent.
@@ -25,7 +25,7 @@ User goals are:
 - Become more aware and connected. 
 - Be able to sign up to get more tips and information.
 
-The Mindful Muslim will fill these needs by:
+**The Mindful Muslim will fill these needs by:**
 
 - Providing the user with informative images (infographics) on home page.
 - The images on homepage has a hover effect to highlight that it will link you to more information about the topic.
@@ -35,9 +35,12 @@ The Mindful Muslim will fill these needs by:
 - Sign Up page that encourages the user to visit these social media links.
 - Easy to find Sign Up form to get more information and inspiration about the topics weekly. 
 
-<h4>Business Goals(make bold)</h4>
+<h4>Business Goals</h4>
 
-The Business goals of The Mindful Muslim are:(make bold)
+**The Business goals of The Mindful Muslim are:**
+
+- Gain subscribers via the sign up page.
+- Provide 
 
 
 <h3>Visual Design</h3>
