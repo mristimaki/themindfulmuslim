@@ -316,16 +316,14 @@ input[type=text]:focus {
     }
 }
 
-/* responsive design to signup.html if screen larger tan 950px */
+/* responsive design to all p and lists if screen larger tan 950px */
 @media only screen and (min-width: 950px) {
-    #signup {
-        background-color: #fff;
-        height: auto;
-        width: auto;
-        padding-left: 15px;
-        margin-top: 5%;
-        margin-bottom: 5%;
-        font-size: 19px;
+    p {
+        font-size: 17px;
+    }
+
+    li {
+        font-size: 17px;
     }
     
 }
