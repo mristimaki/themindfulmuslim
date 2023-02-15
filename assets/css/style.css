@@ -99,12 +99,12 @@ div.images {
     width: 29%;
     height: auto;
     margin: 5px;
+    border: 5px solid #fff;
 }
 
-/* hover effect on images: it is currently showing a disturbing blue border before the color set in style */
+/* hover effect on images: i wanted it to be whithout border and when hovering a white border appears, so it gets kind of a zoom effect, but when i did that a disturbing blue border appeared before the white border. so now i have a border that just changes color instead */
 a:hover img {
-    color: #fff;
-    border: 5px solid;
+    border: 5px solid #ff9052;
     transition: 0.5s ease;
 }
 
