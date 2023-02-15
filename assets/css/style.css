@@ -180,8 +180,8 @@ footer {
     height: auto;
     width: auto;
     padding-left: 15px;
-    margin-top: 30px;
-    margin-bottom: 30px;
+    margin-top: 5%;
+    margin-bottom: 5%;
 }
 
 /* sign up form */
@@ -201,17 +201,13 @@ input {
 
 #signupform {
     text-align: center;
-}
-
-div form {
-    width: 50%;
-    height: auto;
-    border-radius: 5px;
     background-color: #FFBA5C;
+    max-width: 500px;
+    position: center;
     padding: 15px;
-    margin: 0 auto;
-    margin-bottom: 15px;
-    margin-top: 15px;
+    margin: auto;
+    margin-bottom: 10%;
+    padding-bottom: 15px;
 }
 
 input[type="submit"] {
@@ -318,4 +314,18 @@ input[type=text]:focus {
     #signupsection {
         min-height: 75vh;
     }
+}
+
+/* responsive design to signup.html if screen larger tan 950px */
+@media only screen and (min-width: 950px) {
+    #signup {
+        background-color: #fff;
+        height: auto;
+        width: auto;
+        padding-left: 15px;
+        margin-top: 5%;
+        margin-bottom: 5%;
+        font-size: 19px;
+    }
+    
 }
