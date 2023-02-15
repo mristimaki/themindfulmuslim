@@ -10,6 +10,7 @@
 <h3>Goals</h3>
 
 <h4>Visitor Goals</h4>
+
 **The target audience for The Mindful Muslim:**
 
 - People who are interested in health and spirituality.
