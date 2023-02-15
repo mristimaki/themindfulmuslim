@@ -265,8 +265,44 @@ input[type=text]:focus {
         float: left;
         overflow: auto;
         margin-right: 15px;
+        text-align: center;
+    }
+}
+
+/* responsive design if screen smaller than 500px */
+@media only screen and (max-width: 500px) {
+    .inspirationimg {
+        margin: 5px;
+        padding: 15px;
     }
 
+    .inspirationimg img {
+        padding-left: 40px;
+        padding-bottom: 10px;
+    }
+}
+
+@media only screen and (max-width: 400px) {
+    .inspirationimg {
+        margin: 5px;
+        padding: 15px;
+    }
+
+    .inspirationimg img {
+        padding-left: 20px;
+        padding-bottom: 10px;
+    }
+}
+
+@media only screen and (max-width: 350px) {
+    .inspirationimg {
+        margin: 5px;
+        padding: 0 10px 10px 15px;
+    }
+
+    .inspirationimg img {
+        padding: 0 20px 10px 0;
+    }
 }
 
 /* responsive design that changes the column count to one if screen is smaller than 500px */
