@@ -19,6 +19,22 @@ h1, h2 {
     padding-bottom: 5px;
 }
 
+h3 {
+    font-family: 'Playfair Display', serif;
+    font-style: italic;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: #47525E;
+}
+
+p a:hover {
+    color: #F9CC89;
+    transition: 0.3s ease;
+}
+
 /* class to target list style to be circles */
 ul.circle {
     list-style: circle;
@@ -76,10 +92,11 @@ header a {
 
 #home {
     background-color: #fff;
-    height: auto;
+    height: 300px;
     width: auto;
-    padding-top: 15px;
-    padding-left: 15px;
+    padding-top: 35px;
+    padding-left: 25px;
+    padding-right: 15px;
     margin-bottom: 20px;
 }
 
@@ -292,6 +309,16 @@ input[type=text]:focus {
     .inspirationimg img {
         width: 270px;
         padding: 5px;
+    }
+
+    #home {
+        background-color: #fff;
+        height: 350px;
+        width: auto;
+        padding-top: 35px;
+        padding-left: 25px;
+        padding-right: 15px;
+        margin-bottom: 20px;
     }
 }
 
