@@ -311,6 +311,7 @@ input[type=text]:focus {
         padding: 5px;
     }
 
+    /* responsive design to homepage on smaller devices */
     #home {
         background-color: #fff;
         height: 350px;
@@ -330,13 +331,6 @@ input[type=text]:focus {
     }
 }
 
-/* responsive design to make footer stick to bottom on larger screens */
-@media only screen and (max-width: 2862px) {
-    footer {
-        max-height: 75vh;
-    }
-}
-
 /* responsive design to all p and lists if screen larger tan 950px */
 @media only screen and (min-width: 950px) {
     p {
@@ -346,5 +340,24 @@ input[type=text]:focus {
     li {
         font-size: 17px;
     }
-    
+}
+
+/* responsive design to home page if screen larger tan 768px */
+@media only screen and (min-width: 768px) {
+    #home {
+        background-color: #fff;
+        height: 250px;
+        width: auto;
+        padding-top: 35px;
+        padding-left: 25px;
+        padding-right: 15px;
+        margin-bottom: 20px;
+    }
+}
+
+/* responsive design to make footer stick to bottom on larger screens */
+@media only screen and (max-width: 2862px) {
+    footer {
+        max-height: 75vh;
+    }
 }
