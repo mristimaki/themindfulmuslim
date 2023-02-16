@@ -3,8 +3,9 @@
 [The Mindful Muslim](https://mristimaki.github.io/themindfulmuslim/) is designed as a motivational platform where I hope to encourage people to be more mindful of their physical and spiritual health. I wanted to create a joyful and straight-to-the-point website, therefore I have made the design simplistic, with bright uplifting colors and with infographic images that gives the visitor a clear picture of what you will find. This platform will provide useful tips that one can implement in their daily life, links to social media platforms that reflects the content of this website, along with quotes from the Quran and Sunnah (sayings of the Prophet Muhammad, Peace and Blessings be upon him).
 <br>
 <br>
-<img src="assets/images/homepage.png" alt="Homepage view on different devices">
+![responsive](https://user-images.githubusercontent.com/121927123/219456286-fec56ac7-666c-4313-82be-fc59be9de442.png)
 <br>
+
 ## UX
 
 ### Goals
