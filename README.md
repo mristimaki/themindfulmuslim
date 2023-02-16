@@ -1,15 +1,15 @@
-<h1>The Mindful Muslim</h1>
-<br>
-<a href="https://mristimaki.github.io/themindfulmuslim/" target="_blank">The Mindful Muslim</a> is designed as a motivational platform where I hope to encourage people to be more mindful of their physical and spiritual health. I wanted to create a joyful and straight-to-the-point website, therefore I have made the design simplistic, with bright uplifting colors and with infographic images that gives the visitor a clear picture of what you will find. This platform will provide useful tips that one can implement in their daily life, links to social media platforms that reflects the content of this website, along with quotes from the Quran and Sunnah (sayings of the Prophet Muhammad, Peace and Blessings be upon him).
+# The Mindful Muslim
+
+[The Mindful Muslim](https://mristimaki.github.io/themindfulmuslim/) is designed as a motivational platform where I hope to encourage people to be more mindful of their physical and spiritual health. I wanted to create a joyful and straight-to-the-point website, therefore I have made the design simplistic, with bright uplifting colors and with infographic images that gives the visitor a clear picture of what you will find. This platform will provide useful tips that one can implement in their daily life, links to social media platforms that reflects the content of this website, along with quotes from the Quran and Sunnah (sayings of the Prophet Muhammad, Peace and Blessings be upon him).
 <br>
 <br>
 <img src="assets/images/homepage.png" alt="Homepage view on different devices">
 <br>
-<h2>UX</h2>
+## UX
 
-<h3>Goals</h3>
+### Goals
 
-<h4>Visitor Goals</h4>
+#### Visitor Goals
 
 **The target audience for The Mindful Muslim:**
 
@@ -20,11 +20,11 @@
 
 **User goals are:**
 
-- Learn about sunnah inspired health habits.
-- Become a more mindful parent.
-- Learn about islamic family values.
-- Become more aware and connected. 
-- Be able to sign up to get more tips and information.
+1. Learn about sunnah inspired health habits.
+2. Become a more mindful parent.
+3. Learn about islamic family values.
+4. Become more aware and connected. 
+5. Be able to sign up to get more inspiration and information.
 
 **The Mindful Muslim will fill these needs by:**
 
@@ -32,51 +32,75 @@
 - The images on homepage has a hover effect to highlight that it will link you to more information about the topic.
 - Providing a simple header with navigation bar that is straight forward.
 - Providing informative and inspirational quotes from Quran and Sunnah in Inspiration page.
-- Social media links in footer that will provide the user with more of these particular topics.
+- Social media links in footer that will provide the user with more information of these particular topics.
+- Social media links to different platforms that will provide the user with reminders too choose from their liking. 
 - Sign Up page that encourages the user to visit these social media links.
-- Easy to find Sign Up form to get more information and inspiration about the topics weekly. 
+- Easy to find Sign Up form to get more reminders and inspiration about the topics weekly. 
 
-<h4>Business Goals</h4>
+#### Business Goals
 
 **The Business goals of The Mindful Muslim are:**
 
 - Gain subscribers via the sign up page.
-- Provide 
+- Present a good and clear design to gain interest.
+- Get connected via the sign up page.
+
+**User Stories** 
+* As a user interested in islam, I expect to get accurate information with references where the information is collected.
+* As a user interested in mindfulness, I expect to get simple and useful tips that I can easily adapt into my life.
+* As a user interested in mindfulness and spirituality, I want to have different opportunities to gain knowledge and reminders that I can implement into my life daily, weekly or monthly. 
+* As a user interested in health, I expect to get useful tips that I can easily adapt into my life both in movement, foods and mentally. 
+
+## Visual Design
+
+### Wireframes
+Add either printscreens of the wireframes created in the beginning?
+
+### The Fonts
+I used fonts...
+
+### The Icons
+I used icons...
+
+### The Colors
+The colors I used ...
+
+### The Images
+I wanted the images to be...
 
 
-<h3>Visual Design</h3>
-<br>
+### The Styling
+The styling of this page ...
 
-<h2>Features</h2>
+## Features
 
-<h3>Page Elements</h3>
-<h3>Additional Features</h3>
-<h3>Feature Ideas</h3>
-<br>
+### Page Elements
 
-<h2>Technologies used</h2>
+### Additional Features
 
-<h3>Languages</h3>
-<h3>Frameworks</h3>
-<h3>Libraries</h3>
-<h3>APIs</h3>
-<h3>Platforms</h3>
-<h3>Other Tools</h3>
-<br>
+### Feature Ideas
 
-<h2>Testing</h2>
+## Technologies used
 
-<h3>Methods</h3>
-<h3>Bugs</h3>
-<br>
+### Languages
+### Frameworks
+### Libraries
+### APIs
+### Platforms
+### Other Tools
 
-<h2>Deployment</h2>
+## Testing
 
-<h3>Local Deployment</h3>
-<h3>GitHub Deployment</h3>
-<br>
+### Methods
+### Bugs
 
-<h2>Credit and Contact</h2>
+## Deployment
 
-<h3>Content</h3>
-<h3>Contact</h3>
+### Local Deployment
+### GitHub Deployment
+
+
+## Credit and Contact
+
+### Content
+### Contact
