@@ -92,7 +92,7 @@ header a {
 
 #home {
     background-color: #fff;
-    height: 300px;
+    height: 250px;
     width: auto;
     padding-top: 35px;
     padding-left: 25px;
@@ -291,6 +291,17 @@ input[type=text]:focus {
         padding-left: 40px;
         padding-bottom: 10px;
     }
+
+    /* responsive design to homepage on smaller devices */
+    #home {
+        background-color: #fff;
+        height: 350px;
+        width: auto;
+        padding-top: 35px;
+        padding-left: 25px;
+        padding-right: 15px;
+        margin-bottom: 20px;
+    }
 }
 
 @media only screen and (max-width: 400px) {
@@ -310,17 +321,6 @@ input[type=text]:focus {
         width: 270px;
         padding: 5px;
     }
-
-    /* responsive design to homepage on smaller devices */
-    #home {
-        background-color: #fff;
-        height: 350px;
-        width: auto;
-        padding-top: 35px;
-        padding-left: 25px;
-        padding-right: 15px;
-        margin-bottom: 20px;
-    }
 }
 
 /* responsive design that changes the column count to one if screen is smaller than 500px */
@@ -339,19 +339,6 @@ input[type=text]:focus {
 
     li {
         font-size: 17px;
-    }
-}
-
-/* responsive design to home page if screen larger tan 768px */
-@media only screen and (min-width: 768px) {
-    #home {
-        background-color: #fff;
-        height: 250px;
-        width: auto;
-        padding-top: 35px;
-        padding-left: 25px;
-        padding-right: 15px;
-        margin-bottom: 20px;
     }
 }
 
