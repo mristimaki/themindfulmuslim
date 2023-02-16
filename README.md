@@ -58,21 +58,26 @@ Add either printscreens of the wireframes created in the beginning?
 
 ### The Fonts
 I choosed the fonts for this webdesign via the [fontpair](https://www.fontpair.co/all) website.
-I chose these particular fonts because I wanted a elegant and clean look to the fonts that complemented the more playful colours in a good way. 
+I chose these particular fonts because I wanted a elegant and clean look to the fonts that complemented the more playful colours in a good way.
+
+### The Colors
+<img width="1440" alt="colorpalette" src="https://user-images.githubusercontent.com/121927123/219293629-dd4a2324-07b8-4d2f-ae86-cc32ae0dd908.png">
+
+To create the playful yet empowering design I wanted, I looked up the emotional effects of colors. I chose the orange colours for the creative, playful and uplifting effects, white for inspiring and fresh look and charcoal for a elegant and empowering effect to the text. 
 
 ### The Icons
-The icons are taken from the [Font Awesome](https://fontawesome.com/) website. 
-The icons are found in the footer for social media links. I wanted the icons to be white and simple in design but with a fun hover effect so that the user may get interested in visiting the social media links provided.
-<br>
 Center this image, do I have to make a div class or can I center it some other way?
 ![footericons](https://user-images.githubusercontent.com/121927123/219289600-3d5546c5-c7c7-42eb-9d62-98ec9bbb3d98.png)
 
-
-### The Colors
-The colors I used ...
+The icons are taken from the [Font Awesome](https://fontawesome.com/) website. 
+<br>
+These are found in the footer for social media links. I wanted the icons to be white and simple in design but with a fun hover effect so that the user may get interested in visiting the social media links provided.
+<br>
 
 ### The Images
-I wanted the images to be...
+![images](https://user-images.githubusercontent.com/121927123/219300505-1679d594-7ae3-49b1-b39c-79504712d968.png)
+
+I wanted the images on this website to be simple, informative and straight forward. Therefore I cose these infographics provided by [Sunnah Infographics](https://www.instagram.com/sunnahinfographics/), both to highlight their beautiful work and to encourage the user to visit their platform to gain even more knowledge about the topics provided in The Mindful Muslim. 
 
 
 ### The Styling
