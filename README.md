@@ -57,10 +57,16 @@
 Add either printscreens of the wireframes created in the beginning?
 
 ### The Fonts
-I used fonts...
+I choosed the fonts for this webdesign via the [fontpair](https://www.fontpair.co/all) website.
+I chose these particular fonts because I wanted a elegant and clean look to the fonts that complemented the more playful colours in a good way. 
 
 ### The Icons
-I used icons...
+The icons are taken from the [Font Awesome](https://fontawesome.com/) website. 
+The icons are found in the footer for social media links. I wanted the icons to be white and simple in design but with a fun hover effect so that the user may get interested in visiting the social media links provided.
+<br>
+Center this image, do I have to make a div class or can I center it some other way?
+![footericons](https://user-images.githubusercontent.com/121927123/219289600-3d5546c5-c7c7-42eb-9d62-98ec9bbb3d98.png)
+
 
 ### The Colors
 The colors I used ...
