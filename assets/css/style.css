@@ -240,9 +240,8 @@ input[type=text]:focus {
     padding-left: 15px;
 }
 
-/* when just minimizing the screen, images does not appear as i like. only with inspect */
-/* image style if screen is smaller than 768px */
-@media only screen and (max-width: 768px) {
+/* image style if screen is smaller than 425px */
+@media only screen and (max-width: 425px) {
     div.images img {
         width: 90%;
         margin: 5px;
