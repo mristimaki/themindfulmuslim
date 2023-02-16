@@ -92,9 +92,9 @@ header a {
 
 #home {
     background-color: #fff;
-    height: 250px;
+    height: 300px;
     width: auto;
-    padding-top: 35px;
+    padding-top: 90px;
     padding-left: 25px;
     padding-right: 15px;
     margin-bottom: 20px;
@@ -328,6 +328,18 @@ input[type=text]:focus {
     .columns {
         column-count: 1;
         column-fill: auto;
+    }
+}
+
+/* responsive design to homepage smaller than 768px */
+@media only screen and (max-width: 768px) {
+    #home {
+        background-color: #fff;
+        height: 350px;
+        width: auto;
+        padding-left: 25px;
+        padding-right: 15px;
+        margin-bottom: 20px;
     }
 }
 
