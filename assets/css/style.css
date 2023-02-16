@@ -92,9 +92,9 @@ header a {
 
 #home {
     background-color: #fff;
-    height: 300px;
+    height: 250px;
     width: auto;
-    padding-top: 90px;
+    padding-top: 50px;
     padding-left: 25px;
     padding-right: 15px;
     margin-bottom: 20px;
@@ -263,7 +263,6 @@ input[type=text]:focus {
         width: 90%;
         margin: 5px;
     }
-
 }
 
 /* paragraph to the right of img if screen is larger than 500px */ 
@@ -292,7 +291,7 @@ input[type=text]:focus {
         padding-bottom: 10px;
     }
 
-    /* responsive design to homepage on smaller devices */
+    /* responsive design to homepage */
     #home {
         background-color: #fff;
         height: 350px;
@@ -317,6 +316,7 @@ input[type=text]:focus {
 }
 
 @media only screen and (max-width: 350px) {
+    
     .inspirationimg img {
         width: 270px;
         padding: 5px;
@@ -337,6 +337,7 @@ input[type=text]:focus {
         background-color: #fff;
         height: 350px;
         width: auto;
+        padding-top: 50px;
         padding-left: 25px;
         padding-right: 15px;
         margin-bottom: 20px;
