@@ -54,9 +54,6 @@
 
 ## Visual Design
 
-### Wireframes
-Add either printscreens of the wireframes created in the beginning?
-
 ### The Fonts
 I choosed the fonts for this webdesign via the [fontpair](https://www.fontpair.co/all) website.
 I chose these particular fonts because I wanted a elegant and clean look to the fonts that complemented the more playful colours in a good way.
@@ -159,4 +156,20 @@ Live link can be found here: https://mristimaki.github.io/themindfulmuslim/
 ## Credit and Contact
 
 ### Content
+
+All of the images used is taken from [Sunnah Infographics](https://www.instagram.com/sunnahinfographics/) that creates and shares authentic islamic reminders about islam, balance and wellness. 
+<br>
+I chose [SoulFood FM](https://open.spotify.com/show/1IVH06f51dCWFtwPPVn7zD?si=c452622e04574859&nd=1) as the podcast linked in the social media section since they provide a podcast about spiritual refinement and their episodes are of the shorter kind, therefor it's easier to get these small reminders in to our already busy life. 
+<br>
+I linked the [Yaqeen Institutes](https://www.youtube.com/watch?v=dqQ_hTtIhQw&list=PLQ02IYL5pmhF5ut07UMO9xqVOP05yh9E5&index=3) episodes of *"Keys to Prophetic parenting"* in the social media section since they provide authentic islamic reminders and lectures. I chose the particular episodes about parenting since it is one of the topics in this website and the one that I'm the most passionate about. 
+<br>
+<br>
+I also want to give thanks to my mentor [Rory Patric Sheridan](https://github.com/Ri-Dearg) that has been guiding me troughout this project. 
+
 ### Contact
+
+Please contact me at
+<br>**email** `rosanna.ristimaki@gmail.com`
+<br>**skype** [Maryam Rutqvist Ristimaki](https://join.skype.com/invite/xfUYvIMqTjPp)
+
+I've chosen not to include any contact information within the webpage since this is not a real website yet but if it would be in the future I would put this along with the Sign Up page as well as in the footer with social media links. 
