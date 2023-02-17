@@ -154,10 +154,6 @@ This site was deployed to GitHub pages.
 
 Live link can be found here: https://mristimaki.github.io/themindfulmuslim/ 
 
-### Local Deployment
-### GitHub Deployment
-
-
 ## Credit and Contact
 
 ### Media
