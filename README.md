@@ -102,8 +102,21 @@ The styling of this page ...
 
 ## Testing
 
+### General testing
+- I have tested my code troughout the buildup with the inspect tool to see what impact the code made.
+- I have firstly tested if the code works with mobile devices and then checked the outcome on larger devices. 
+- I have used my own mobile phone to check if the website works as it is intended. 
+- I have used not only the preview but also the deployed website to check if everything works and looks as intended.
+
 ### Methods
+1. HTML has been validated in the [W3C HTML5 Validator](https://validator.w3.org/)
+2. CSS has been validated in the [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
+3. Links has been checked in the [W3C Link Checker](https://validator.w3.org/checklink)
+
 ### Bugs
+- The images in homepage would not align as intended in smaller devices. Fixed by changing width on div.
+- The border color around the text input when focused did not work. Fixed it by stating outline: none;
+- Did not get the navigation bar in header to center (i wrote every css style in same ID a: style). Fixed it by targeting only the ID of nav bar.
 
 ## Deployment
 
