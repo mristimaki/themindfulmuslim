@@ -77,17 +77,31 @@ These are found in the footer for social media links. I wanted the icons to be w
 <br>
 
 ### The Styling
-The styling of this page ...
+(Add text about styling of the page)
 
 ## Features
 
 ### Page Elements
 
+#### Navigation bar
 I got inspired by this particular [tutorial](https://www.youtube.com/watch?v=uyaV_EWWRmo) for the design of navigation bar.
 
-### Additional Features
+#### Index page
+Add information about the home page
+
+#### Inspiration page
+Add information about the inspiration page
+
+#### Sign Up page
+Add information about the sign up page
+
+#### Footer
+Add information about the footer
 
 ### Feature Ideas
+Add your feature ideas: hover effect and link to right section...
+Ability to share information on social media...
+A new hadith every week/month. like a update on whats "new"...
 
 ## Technologies used
 
