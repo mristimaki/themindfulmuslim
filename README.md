@@ -64,7 +64,7 @@ I chose these particular fonts because I wanted a elegant and clean look to the 
 ### The Colors
 <img width="1440" alt="colorpalette" src="https://user-images.githubusercontent.com/121927123/219293629-dd4a2324-07b8-4d2f-ae86-cc32ae0dd908.png">
 
-To create the playful yet empowering design I wanted, I looked up the emotional effects of colors. I chose the orange colours for the creative, playful and uplifting effects, white for inspiring and fresh look and charcoal for a elegant and empowering effect to the text. 
+To create the playful yet empowering design I wanted, I looked up the emotional effects of colors. I chose the orange colors for the creative, playful and uplifting effects, white for inspiring and fresh look and charcoal for a elegant and empowering effect to the text. 
 
 ### The Images
 ![images](https://user-images.githubusercontent.com/121927123/219300505-1679d594-7ae3-49b1-b39c-79504712d968.png)
@@ -94,11 +94,24 @@ The styling of this page ...
 ## Technologies used
 
 ### Languages
-### Frameworks
+* HTML: Page markup.
+* CSS: Styling
+
 ### Libraries
-### APIs
+* [Google Fonts](https://fonts.google.com/): Font styles. 
+* [Font Awesome](https://fontawesome.com/): Used for icons.
+
 ### Platforms
+* [GitHub](https://github.com/): Storing code remotly and deployment.
+* [Gitpod](https://www.gitpod.io/): IDE for project development.
+
 ### Other Tools
+* [Favicon Generator](https://www.favicon-generator.org/): Favicon.
+* [Tiny png](https://tinypng.com/): Compression of images.
+* [Convertio](https://convertio.co/png-webp/): Converting images.
+* [Coloors](https://coolors.co/ff9052-ffba5c-f9cc89-ffffff-47525e): Creating color palette.
+* [Am I Responsive](https://ui.dev/amiresponsive): For responsive design images.
+* [Marvelapp](https://marvelapp.com/): For wireframes.
 
 ## Testing
 
@@ -114,6 +127,7 @@ The design of [The Mindful Muslim](https://mristimaki.github.io/themindfulmuslim
 1. HTML has been validated in the [W3C HTML5 Validator](https://validator.w3.org/)
 2. CSS has been validated in the [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
 3. Links has been checked in the [W3C Link Checker](https://validator.w3.org/checklink)
+4. I've used the [W3Schools](https://www.w3schools.com/) tutorials and references troughout my project if there was anything that I got stuck on or needed to be reminded of a certain element or tag. 
 
 ### Bugs
 - The images in homepage would not align as intended in smaller devices. Fixed by changing width on div.
