@@ -102,6 +102,8 @@ The styling of this page ...
 
 ## Testing
 
+The design of [The Mindful Muslim](https://mristimaki.github.io/themindfulmuslim/) should be responsive so that when looked at in mobile phones the images should be stacked over each other in Home-page and stacked on top of paragraph in Inspiration-page so that the user can see the images better. The font size in the Inspiration-page also increases on larger devices so that the user can read the text better.
+
 ### General testing
 - I have tested my code troughout the buildup with the inspect tool to see what impact the code made.
 - I have firstly tested if the code works with mobile devices and then checked the outcome on larger devices. 
@@ -118,7 +120,23 @@ The styling of this page ...
 - The border color around the text input when focused did not work. Fixed it by stating outline: none;
 - Did not get the navigation bar in header to center (i wrote every css style in same ID a: style). Fixed it by targeting only the ID of nav bar.
 
+### Unfixed bugs
+- The footer is not sticking to the bottom of Sign Up-page when screen lagrer than 1450px due to lack of time and knowledge at this point in time.
+
 ## Deployment
+
+### GitHub Deployment
+This site was deployed to GitHub pages. 
+
+**Github instructions**
+1. Create a free GitHub account
+2. Log in to your GitHub account and navigate to: https://github.com/mristimaki/themindfulmuslim
+3. In the GitHub repository, navigate to the Settings tab.
+4. Scroll down and go to the **Pages** section.
+5. Select the Master Branch and Confirm the selection.
+6. Wait a minute or two and it should be live fow viewing.
+
+Live link can be found here: https://mristimaki.github.io/themindfulmuslim/ 
 
 ### Local Deployment
 ### GitHub Deployment
