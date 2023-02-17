@@ -113,10 +113,14 @@ I got inspired by this particular [tutorial](https://www.youtube.com/watch?v=uya
 
 ## Testing
 
-The design of [The Mindful Muslim](https://mristimaki.github.io/themindfulmuslim/) should be responsive so that when looked at in mobile phones the images should be stacked over each other in Home-page and stacked on top of paragraph in Inspiration-page so that the user can see the images better. The font size in the Inspiration-page also increases on larger devices so that the user can read the text better.
+The design of [The Mindful Muslim](https://mristimaki.github.io/themindfulmuslim/) should be responsive so that when looked at in mobile phones the images should be stacked over each other in Home-page and stacked on top of paragraph in Inspiration-page so that the user can see the images better. The font size in the Inspiration-page also increases on larger devices so that the user can read the text better. I've tested all pages both for mobile and desktop via the **Lighthouse** tool and got these results:
+### Mobile 
+![LHmobile_home_insp_signup](https://user-images.githubusercontent.com/121927123/219721616-251a0173-bc87-49b2-93d2-2d0e0013c6a3.png)
+### Desktop
+![LHdesktop_home_insp_signup](https://user-images.githubusercontent.com/121927123/219721653-ddb1e31e-ff32-4ea5-84e5-eeb3d649214f.png)
 
 ### General testing
-- I have tested my code troughout the buildup with the inspect tool to see what impact the code made.
+- I have tested my code troughout the buildup with the **inspect** tool to see what impact the code made.
 - I have firstly tested if the code works with mobile devices and then checked the outcome on larger devices. 
 - I have used my own mobile phone to check if the website works as it is intended. 
 - I have used not only the preview but also the deployed website to check if everything works and looks as intended.
