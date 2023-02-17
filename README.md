@@ -69,8 +69,7 @@ To create the playful yet empowering design I wanted, I looked up the emotional 
 I wanted the images on this website to be simple, informative and straight forward. Therefore I cose these infographics provided by [Sunnah Infographics](https://www.instagram.com/sunnahinfographics/), both to highlight their beautiful work and to encourage the user to visit their platform to gain even more knowledge about the topics provided in The Mindful Muslim. 
 
 ### The Icons
-Center this image, do I have to make a div class or can I center it some other way?
-![footericons](https://user-images.githubusercontent.com/121927123/219289600-3d5546c5-c7c7-42eb-9d62-98ec9bbb3d98.png)
+![footer](https://user-images.githubusercontent.com/121927123/219712482-f6a9a61d-e672-48c4-8684-50a8ae868f8c.jpg)
 
 The icons are taken from the [Font Awesome](https://fontawesome.com/) website. 
 <br>
@@ -83,6 +82,8 @@ The styling of this page ...
 ## Features
 
 ### Page Elements
+
+I got inspired by this particular [tutorial](https://www.youtube.com/watch?v=uyaV_EWWRmo) for the design of navigation bar.
 
 ### Additional Features
 
@@ -155,21 +156,23 @@ Live link can be found here: https://mristimaki.github.io/themindfulmuslim/
 
 ## Credit and Contact
 
-### Content
+### Media
 
-All of the images used is taken from [Sunnah Infographics](https://www.instagram.com/sunnahinfographics/) that creates and shares authentic islamic reminders about islam, balance and wellness. 
-<br>
-I chose [SoulFood FM](https://open.spotify.com/show/1IVH06f51dCWFtwPPVn7zD?si=c452622e04574859&nd=1) as the podcast linked in the social media section since they provide a podcast about spiritual refinement and their episodes are of the shorter kind, therefor it's easier to get these small reminders in to our already busy life. 
-<br>
-I linked the [Yaqeen Institutes](https://www.youtube.com/watch?v=dqQ_hTtIhQw&list=PLQ02IYL5pmhF5ut07UMO9xqVOP05yh9E5&index=3) episodes of *"Keys to Prophetic parenting"* in the social media section since they provide authentic islamic reminders and lectures. I chose the particular episodes about parenting since it is one of the topics in this website and the one that I'm the most passionate about. 
-<br>
-<br>
-I also want to give thanks to my mentor [Rory Patric Sheridan](https://github.com/Ri-Dearg) that has been guiding me troughout this project. 
+- All of the images used is taken from [Sunnah Infographics](https://www.instagram.com/sunnahinfographics/) that creates and shares authentic islamic reminders about islam, balance and wellness.
+- I chose [SoulFood FM](https://open.spotify.com/show/1IVH06f51dCWFtwPPVn7zD?si=c452622e04574859&nd=1) as the podcast linked in the social media section since they provide a podcast about spiritual refinement and their episodes are of the shorter kind, therefor it's easier to get these small reminders in to our already busy life.
+- I linked the [Yaqeen Institutes](https://www.youtube.com/@yaqeeninstituteofficial) episodes of *["Keys to Prophetic parenting"](https://www.youtube.com/watch?v=dqQ_hTtIhQw&list=PLQ02IYL5pmhF5ut07UMO9xqVOP05yh9E5&index=3)* in the social media section since they provide authentic islamic reminders and lectures. I chose the particular episodes about parenting since it is one of the topics in this website and the one that I'm the most passionate about. 
+
+### Content
+The information in Inspiration page is taken from [Sunnah Infographics](https://www.instagram.com/sunnahinfographics/), [Sunnah.com](https://sunnah.com/), [Healthline](https://www.healthline.com/) and [Muslim.sg](https://www.muslim.sg/articles/prophet-muhammad-s-kindness-and-love-for-children).
 
 ### Contact
 
 Please contact me at
-<br>**email** `rosanna.ristimaki@gmail.com`
-<br>**skype** [Maryam Rutqvist Ristimaki](https://join.skype.com/invite/xfUYvIMqTjPp)
+<br> 🇸🇪 **Email** `rosanna.ristimaki@gmail.com`
+<br> 🇲🇾 **Skype** [Maryam Rutqvist Ristimaki](https://join.skype.com/invite/xfUYvIMqTjPp)
 
 I've chosen not to include any contact information within the webpage since this is not a real website yet but if it would be in the future I would put this along with the Sign Up page as well as in the footer with social media links. 
+<br>
+<br>
+*I also want to give thanks to my mentor [Rory Patric Sheridan](https://github.com/Ri-Dearg) that has been guiding me troughout this project.*
+
