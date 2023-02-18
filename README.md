@@ -173,18 +173,23 @@ The design of [The Mindful Muslim](https://mristimaki.github.io/themindfulmuslim
 ## Deployment
 
 ### GitHub Deployment
-This site was deployed to GitHub pages. 
-<br>
-It is possible to clone this repositry, to be able to work alongside me for this project it is required to have a free GitHub account and then go trough the steps as follows. 
+- This site was deployed to GitHub pages. The steps to deploy are as follows.
+  - In the GitHub reporitory, navigate to **Settings**
+  - Scroll down and navigate to **Pages**
+  - From the **Source** section drop-down menu, select te **Master Branch**
+  - Once the Master Branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
+  - It might take a minute or so before getting the deployed link.
 
-**Github instructions**
+The live link can be found here: https://mristimaki.github.io/themindfulmuslim/
+
+#### Clone GitHub repositry instructions
+It is possible to clone this repositry, to be able to work alongside me for this project it is required to have a free GitHub account and then go trough the steps as follows. 
+<br>
 1. Log in to your GitHub account and navigate to: https://github.com/mristimaki/themindfulmuslim
 2. In the GitHub repository, navigate to **Code** and `copy` the **HTTPS link**.
 3. Write `git clone` in terminal, paste the link and press `enter`.
 4. Now you should have everything you need to work on the project.
 5. Happy coding!
-
-Live link can be found here: https://mristimaki.github.io/themindfulmuslim/ 
 
 ## Credit and Contact
 
