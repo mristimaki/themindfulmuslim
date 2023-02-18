@@ -1,6 +1,8 @@
 # The Mindful Muslim
 
-[The Mindful Muslim](https://mristimaki.github.io/themindfulmuslim/) is designed as a motivational platform where I hope to encourage people to be more mindful of their physical and spiritual health. I wanted to create a joyful and straight-to-the-point website, therefore I have made the design simplistic, with bright uplifting colors and with infographic images that gives the visitor a clear picture of what you will find. This platform will provide useful tips that one can implement in their daily life, links to social media platforms that reflects the content of this website, along with quotes from the Quran and Sunnah (sayings of the Prophet Muhammad, Peace and Blessings be upon him).
+[The Mindful Muslim](https://mristimaki.github.io/themindfulmuslim/) is designed as a motivational platform where the goal is to encourage people to be more mindful of their physical and spiritual health. Today most people feel that they cannot find time to get healthier, so I wanted to create a space where you can find simple and easy ways on how you can adapt different habits into your life.
+<br>
+I have created a joyful straight-to-the point platform that is designed with a simplistic design, bright uplifting colors and with infographic images that gives the visitor a clear picture of what you will find. The website will provide useful tips, links to social media platforms that reflects the content of this website along with quotes from the Quran and Sunnah *(sayings of the Prophet Muhammad, Peace and Blessings be upon him)*.
 <br>
 <br>
 ![responsive](https://user-images.githubusercontent.com/121927123/219456286-fec56ac7-666c-4313-82be-fc59be9de442.png)
@@ -29,11 +31,11 @@
 
 **The Mindful Muslim will fill these needs by:**
 
-- Providing the user with informative images (infographics) on home page.
+- Providing the user with images (infographics) on home page that clarifies what yo will find on the website.
 - The images on homepage has a hover effect to highlight that it will link you to more information about the topic.
 - Providing a simple header with navigation bar that is straight forward.
 - Providing informative and inspirational quotes from Quran and Sunnah in Inspiration page.
-- Social media links in footer that will provide the user with more information of these particular topics.
+- Social media links in footer that will provide the user with more information and inspiration of these particular topics.
 - Social media links to different platforms that will provide the user with reminders too choose from their liking. 
 - Sign Up page that encourages the user to visit these social media links.
 - Easy to find Sign Up form to get more reminders and inspiration about the topics weekly. 
@@ -176,7 +178,7 @@ It is possible to clone this repositry, to be able to work alongside me for this
 
 **Github instructions**
 1. Log in to your GitHub account and navigate to: https://github.com/mristimaki/themindfulmuslim
-2. In the GitHub repository, navigate to Code and copy the HTTPS link.
+2. In the GitHub repository, navigate to **Code** and `copy` the **HTTPS link**.
 3. Write `git clone` in terminal, paste the link and press `enter`.
 4. Now you should have everything you need to work on the project.
 5. Happy coding!
@@ -192,13 +194,17 @@ Live link can be found here: https://mristimaki.github.io/themindfulmuslim/
 - I linked the [Yaqeen Institutes](https://www.youtube.com/@yaqeeninstituteofficial) episodes of *["Keys to Prophetic parenting"](https://www.youtube.com/watch?v=dqQ_hTtIhQw&list=PLQ02IYL5pmhF5ut07UMO9xqVOP05yh9E5&index=3)* in the social media section since they provide authentic islamic reminders and lectures. I chose the particular episodes about parenting since it is one of the topics in this website and the one that I'm the most passionate about. 
 
 ### Content
-The information in Inspiration page is taken from [Sunnah Infographics](https://www.instagram.com/sunnahinfographics/), [Sunnah.com](https://sunnah.com/), [Healthline](https://www.healthline.com/) and [Muslim.sg](https://www.muslim.sg/articles/prophet-muhammad-s-kindness-and-love-for-children).
+- The information in Inspiration page is taken from:
+  - [Sunnah Infographics](https://www.instagram.com/sunnahinfographics/)
+  - [Sunnah.com](https://sunnah.com/)
+  - [Healthline](https://www.healthline.com/) 
+  - [Muslim.sg](https://www.muslim.sg/articles/prophet-muhammad-s-kindness-and-love-for-children)
 
 ### Contact
 
-Please contact me at
-<br>**Email** `rosanna.ristimaki@gmail.com`
-<br>**Skype** [Maryam Rutqvist Ristimaki](https://join.skype.com/invite/xfUYvIMqTjPp)
+#### Please contact me at
+  - **Email** `rosanna.ristimaki@gmail.com`
+  - **Skype** [Maryam Rutqvist Ristimaki](https://join.skype.com/invite/xfUYvIMqTjPp)
 
 I've chosen not to include any contact information within the webpage since this is not a real website yet but if it would be in the future I would put this along with the Sign Up page as well as in the footer with social media links. 
 <br>
