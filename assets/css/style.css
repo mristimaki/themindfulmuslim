@@ -256,7 +256,31 @@ input[type=text]:focus {
     padding-left: 15px;
 }
 
-/* image style if screen is smaller than 425px */
+/* media queries */
+
+/* responsive design to center images in inspiration page if screen is smaller than 350px */
+@media only screen and (max-width: 350px) {
+    
+    .inspirationimg img {
+        width: 270px;
+        padding: 5px;
+    }
+}
+
+/* responsive design to center images in inspiration page if screen is smaller than 400px */
+@media only screen and (max-width: 400px) {
+    .inspirationimg {
+        margin: 5px;
+        padding: 15px;
+    }
+
+    .inspirationimg img {
+        padding-left: 20px;
+        padding-bottom: 10px;
+    }
+}
+
+/* images stacked on top of each other in index.html if screen is smaller than 425px */
 @media only screen and (max-width: 425px) {
     div.images img {
         width: 90%;
@@ -264,7 +288,7 @@ input[type=text]:focus {
     }
 }
 
-/* paragraph to the right of img if screen is larger than 500px */ 
+/* paragraph in inspiration.html to the right of img if screen is larger than 500px */ 
 @media only screen and (min-width: 500px) {
     .inspirationimg {
         margin: 15px;
@@ -278,7 +302,7 @@ input[type=text]:focus {
     }
 }
 
-/* responsive design if screen smaller than 500px */
+/* responsive design to center images and div in inspiration.html if screen smaller than 500px */
 @media only screen and (max-width: 500px) {
     .inspirationimg {
         margin: 5px;
@@ -290,7 +314,7 @@ input[type=text]:focus {
         padding-bottom: 10px;
     }
 
-    /* responsive design to homepage */
+    /* responsive design to index.html introduction of page */
     #home {
         background-color: #fff;
         height: 350px;
@@ -299,26 +323,6 @@ input[type=text]:focus {
         padding-left: 25px;
         padding-right: 15px;
         margin-bottom: 20px;
-    }
-}
-
-@media only screen and (max-width: 400px) {
-    .inspirationimg {
-        margin: 5px;
-        padding: 15px;
-    }
-
-    .inspirationimg img {
-        padding-left: 20px;
-        padding-bottom: 10px;
-    }
-}
-
-@media only screen and (max-width: 350px) {
-    
-    .inspirationimg img {
-        width: 270px;
-        padding: 5px;
     }
 }
 
