@@ -84,7 +84,7 @@ These are found in the footer for social media links.
 #### Navigation bar
 ![navbar](https://user-images.githubusercontent.com/121927123/219824183-b010d850-2b13-4ece-8cd2-7e8ff8c2f7b0.png)
 <br>
-The navigation bar is simple and easy to use. I got inspired by this particular [tutorial](https://www.youtube.com/watch?v=uyaV_EWWRmo) for the design of this navigation bar, I liked the simple clean design and hover effects but made my own design for this particular website. I've styled it so that the active page is highlighted, so that the user easily can see which page they're currently at.
+The navigation bar is located at the top of every page, making it easier for the user to navigate back and forth trough the pages. I got inspired by this particular [tutorial](https://www.youtube.com/watch?v=uyaV_EWWRmo) for the design of this navigation bar, I liked the simple clean design and hover effects but made my own design for this particular website. I've styled it so that the active page is highlighted, so that the user easily can see which page they're currently at. 
 <hr>
 
 #### Footer
@@ -116,13 +116,14 @@ The Sing Up page will allow the user to subscribe for a weekly newsletter. The u
 
 ### Feature Ideas
 - To have a section in the landing page with a weekly reminder like a quote or new healthy habit, that is a part of the weekly newsletter.
-- To have a additional hover effect on the images in landing page: when hovered over, I would like to have [this](https://www.youtube.com/watch?v=6-QoF1qY9Bw&list=PLzVqx1QamSst7Rc92hOqHvgTZ-QjVhGd4&index=2&t=590s) kind of effect with some additional text and a "read more" button.
+- To have a additional opaque box on top of every image in landing page that says "Read more" to make it even more obvious that you can klick the images and find more information thereby. Or add a similar hover effect as in [this tutorial](https://www.youtube.com/watch?v=6-QoF1qY9Bw&list=PLzVqx1QamSst7Rc92hOqHvgTZ-QjVhGd4&index=2&t=590s).
+- The ability to share images along with article directly to social media.
 
 ## Technologies used
 
 ### Languages
 * HTML: Page markup.
-* CSS: Styling
+* CSS: Styling.
 
 ### Libraries
 * [Google Fonts](https://fonts.google.com/): Font styles. 
