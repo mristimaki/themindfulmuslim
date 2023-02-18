@@ -81,26 +81,36 @@ These are found in the footer for social media links.
 
 #### Navigation bar
 ![navbar](https://user-images.githubusercontent.com/121927123/219824183-b010d850-2b13-4ece-8cd2-7e8ff8c2f7b0.png)
+<br>
 The navigation bar is simple and easy to use. I got inspired by this particular [tutorial](https://www.youtube.com/watch?v=uyaV_EWWRmo) for the design of this navigation bar, I liked the simple clean design and hover effects but made my own design for this particular website. I've styled it so that the active page is highlighted, so that the user easily can see which page they're currently at.
+<hr>
 
 #### Footer
 ![footer](https://user-images.githubusercontent.com/121927123/219824479-9d741ae3-e11b-4b1a-938d-107c8eeb7301.jpg)
+<br>
 The footer is located at the bottom of every page, with links to different social media platforms. I've used a simple design and a fun hover effect so that the user may get interested in visiting the social media links provided.
+<hr>
 
 #### The landing page
 ![index html](https://user-images.githubusercontent.com/121927123/219824853-c63cba71-178b-4bb6-a773-04c4e66c349f.png)
+<br>
 The landing page starts with a simple introduction about the page along with a inspiring quote to get the users attention, I've also linked to a specific podcast episode here, where they mention this quote. The same podcast can be found in the footer aswell. The link becomes a light yellow tone when hovered over.
 <br>
 Directly after this I've placed three linked images that highlights when hovered over so that the user understands that you can klick it. The images is linked to the Inspiration page where you can learn and read more about these three specific topics presented in the landing page. 
+<hr>
 
 #### Inspiration page
+![inspirationpage](https://user-images.githubusercontent.com/121927123/219829063-3b6f1410-291b-4acd-8abe-ba6d8744c035.png)
+<br>
 Add information about the inspiration page
+<hr>
 
 #### Sign Up page
-Add information about the sign up page
-
-#### Footer
-Add information about the footer
+![signuppage](https://user-images.githubusercontent.com/121927123/219829626-2f3a5ec3-9ae0-45d6-aeda-84dba073fdee.png)
+<br>
+The Sing Up page will allow the user to subscribe for a weekly newsletter. The user will have to enter their name and email adress to sign up but can also decide to put in their country of residence. When klicking the Subscribe button they will recieve a simple note in another tab to confirm the subscription.
+![formanswer](https://user-images.githubusercontent.com/121927123/219829927-03518561-f2d9-4a08-a20e-eaee9f5d0efc.png)
+<hr>
 
 ### Feature Ideas
 Add your feature ideas: hover effect and link to right section...
@@ -131,11 +141,11 @@ A new hadith every week/month. like a update on whats "new"...
 
 ## Testing
 
-The design of [The Mindful Muslim](https://mristimaki.github.io/themindfulmuslim/) should be responsive so that when looked at in mobile phones the images should be stacked over each other in Home-page and stacked on top of paragraph in Inspiration-page so that the user can see the images better. The font size in the Inspiration-page also increases on larger devices so that the user can read the text better. I've tested all pages both for mobile and desktop via the **Lighthouse** tool and got these results:
-### Mobile 
-![LHmobile_home_insp_signup](https://user-images.githubusercontent.com/121927123/219721616-251a0173-bc87-49b2-93d2-2d0e0013c6a3.png)
+The design of [The Mindful Muslim](https://mristimaki.github.io/themindfulmuslim/) should be responsive so that when looked at in mobile phones the images should be stacked over each other in Home-page and stacked on top of paragraph in Inspiration-page so that the user can see the images better. The font size in the Inspiration-page also increases on larger devices so that the user can read the text better. I've tested all pages both for desktop and mobile via the **Lighthouse** tool and got these results:
 ### Desktop
 ![LHdesktop_home_insp_signup](https://user-images.githubusercontent.com/121927123/219721653-ddb1e31e-ff32-4ea5-84e5-eeb3d649214f.png)
+### Mobile 
+![LHmobile_home_insp_signup](https://user-images.githubusercontent.com/121927123/219721616-251a0173-bc87-49b2-93d2-2d0e0013c6a3.png)
 
 ### General testing
 - I have tested my code troughout the buildup with the **inspect** tool to see what impact the code made.
@@ -153,6 +163,7 @@ The design of [The Mindful Muslim](https://mristimaki.github.io/themindfulmuslim
 - The images in homepage would not align as intended in smaller devices. Fixed by changing width on div.
 - The border color around the text input when focused did not work. Fixed it by stating outline: none;
 - Did not get the navigation bar in header to center (i wrote every css style in same ID a: style). Fixed it by targeting only the ID of nav bar.
+- When changing the order of my media queries to structure the css, some rules got overruled by the other and messed up my responsive design. Fixed it by changing the order since css reads from bottom up.
 
 ### Unfixed bugs
 - The footer is not sticking to the bottom of Sign Up-page when screen lagrer than 1450px due to lack of time and knowledge at this point in time.
@@ -177,7 +188,7 @@ Live link can be found here: https://mristimaki.github.io/themindfulmuslim/
 ### Media
 
 - All of the images used is taken from [Sunnah Infographics](https://www.instagram.com/sunnahinfographics/) that creates and shares authentic islamic reminders about islam, balance and wellness.
-- I chose [SoulFood FM](https://open.spotify.com/show/1IVH06f51dCWFtwPPVn7zD?si=c452622e04574859&nd=1) as the podcast linked in the social media section since they provide a podcast about spiritual refinement and their episodes are of the shorter kind, therefor it's easier to get these small reminders in to our already busy life.
+- I chose [SoulFood FM](https://open.spotify.com/show/1IVH06f51dCWFtwPPVn7zD?si=c452622e04574859&nd=1) as the podcast linked in the social media section since they provide a podcast about spiritual refinement and their episodes are of the shorter kind, therefore it's easier to get these small reminders in to our already busy life.
 - I linked the [Yaqeen Institutes](https://www.youtube.com/@yaqeeninstituteofficial) episodes of *["Keys to Prophetic parenting"](https://www.youtube.com/watch?v=dqQ_hTtIhQw&list=PLQ02IYL5pmhF5ut07UMO9xqVOP05yh9E5&index=3)* in the social media section since they provide authentic islamic reminders and lectures. I chose the particular episodes about parenting since it is one of the topics in this website and the one that I'm the most passionate about. 
 
 ### Content
