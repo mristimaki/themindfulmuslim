@@ -102,7 +102,7 @@ Directly after this I've placed three linked images that highlights when hovered
 #### Inspiration page
 ![inspirationpage](https://user-images.githubusercontent.com/121927123/219829063-3b6f1410-291b-4acd-8abe-ba6d8744c035.png)
 <br>
-Add information about the inspiration page
+The Inspiration page is presented with the images along with articles about these topics. The articles include quotes from the Quran and Sunnah, inspiration and tips on how to include different habits into your daily life.
 <hr>
 
 #### Sign Up page
@@ -113,9 +113,8 @@ The Sing Up page will allow the user to subscribe for a weekly newsletter. The u
 <hr>
 
 ### Feature Ideas
-Add your feature ideas: hover effect and link to right section...
-Ability to share information on social media...
-A new hadith every week/month. like a update on whats "new"...
+- To have a section in the landing page with a weekly reminder like a quote or new healthy habit, that is a part of the weekly newsletter.
+- To have a additional hover effect on the images in landing page: when hovered over, I would like to have [this](https://www.youtube.com/watch?v=6-QoF1qY9Bw&list=PLzVqx1QamSst7Rc92hOqHvgTZ-QjVhGd4&index=2&t=590s) kind of effect with some additional text and a "read more" button.
 
 ## Technologies used
 
@@ -172,14 +171,15 @@ The design of [The Mindful Muslim](https://mristimaki.github.io/themindfulmuslim
 
 ### GitHub Deployment
 This site was deployed to GitHub pages. 
+<br>
+It is possible to clone this repositry, to be able to work alongside me for this project it is required to have a free GitHub account and then go trough the steps as follows. 
 
 **Github instructions**
-1. Create a free GitHub account
-2. Log in to your GitHub account and navigate to: https://github.com/mristimaki/themindfulmuslim
-3. In the GitHub repository, navigate to the Settings tab.
-4. Scroll down and go to the **Pages** section.
-5. Select the Master Branch and Confirm the selection.
-6. Wait a minute or two and it should be live fow viewing.
+1. Log in to your GitHub account and navigate to: https://github.com/mristimaki/themindfulmuslim
+2. In the GitHub repository, navigate to Code and copy the HTTPS link.
+3. Write `git clone` in terminal, paste the link and press `enter`.
+4. Now you should have everything you need to work on the project.
+5. Happy coding!
 
 Live link can be found here: https://mristimaki.github.io/themindfulmuslim/ 
 
@@ -197,8 +197,8 @@ The information in Inspiration page is taken from [Sunnah Infographics](https://
 ### Contact
 
 Please contact me at
-<br> 🇸🇪 **Email** `rosanna.ristimaki@gmail.com`
-<br> 🇲🇾 **Skype** [Maryam Rutqvist Ristimaki](https://join.skype.com/invite/xfUYvIMqTjPp)
+<br>**Email** `rosanna.ristimaki@gmail.com`
+<br>**Skype** [Maryam Rutqvist Ristimaki](https://join.skype.com/invite/xfUYvIMqTjPp)
 
 I've chosen not to include any contact information within the webpage since this is not a real website yet but if it would be in the future I would put this along with the Sign Up page as well as in the footer with social media links. 
 <br>
