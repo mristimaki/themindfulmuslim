@@ -73,21 +73,25 @@ I wanted the images on this website to be simple, informative and straight forwa
 
 The icons are taken from the [Font Awesome](https://fontawesome.com/) website. 
 <br>
-These are found in the footer for social media links. I wanted the icons to be white and simple in design but with a fun hover effect so that the user may get interested in visiting the social media links provided.
-<br>
-
-### The Styling
-(Add text about styling of the page)
+These are found in the footer for social media links.
 
 ## Features
 
 ### Page Elements
 
 #### Navigation bar
-I got inspired by this particular [tutorial](https://www.youtube.com/watch?v=uyaV_EWWRmo) for the design of navigation bar.
+![navbar](https://user-images.githubusercontent.com/121927123/219824183-b010d850-2b13-4ece-8cd2-7e8ff8c2f7b0.png)
+The navigation bar is simple and easy to use. I got inspired by this particular [tutorial](https://www.youtube.com/watch?v=uyaV_EWWRmo) for the design of this navigation bar, I liked the simple clean design and hover effects but made my own design for this particular website. I've styled it so that the active page is highlighted, so that the user easily can see which page they're currently at.
 
-#### Index page
-Add information about the home page
+#### Footer
+![footer](https://user-images.githubusercontent.com/121927123/219824479-9d741ae3-e11b-4b1a-938d-107c8eeb7301.jpg)
+The footer is located at the bottom of every page, with links to different social media platforms. I've used a simple design and a fun hover effect so that the user may get interested in visiting the social media links provided.
+
+#### The landing page
+![index html](https://user-images.githubusercontent.com/121927123/219824853-c63cba71-178b-4bb6-a773-04c4e66c349f.png)
+The landing page starts with a simple introduction about the page along with a inspiring quote to get the users attention, I've also linked to a specific podcast episode here, where they mention this quote. The same podcast can be found in the footer aswell. The link becomes a light yellow tone when hovered over.
+<br>
+Directly after this I've placed three linked images that highlights when hovered over so that the user understands that you can klick it. The images is linked to the Inspiration page where you can learn and read more about these three specific topics presented in the landing page. 
 
 #### Inspiration page
 Add information about the inspiration page
